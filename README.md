@@ -1,5 +1,7 @@
 # HOLIgraph: Heterogeneous OATP-Ligand Interaction Graph Neural Network
-###### The HOLIgraph model was designed to predict small molecule inhibitors of the organic anion transporting polypeptide (OATP) 1B1, a key hepatic drug uptake protein. For more context, please refer to **preprint, coming soon!**
+The HOLIgraph model was designed to predict small molecule inhibitors of the organic anion transporting polypeptide (OATP) 1B1, a key hepatic drug uptake protein. For more context, please refer to the original manuscript: 
+
+> Mardikoraem, M., Eaves, J.N., Belecciu, T. et al. Predicting inhibitors of OATP1B1 via heterogeneous OATP-ligand interaction graph neural network (HOLIgraph). <i>J Cheminform 17</i>, 69 (2025). https://doi.org/10.1186/s13321-025-01020-5
 
 ## Background
 Example files are provided to complete a tutorial on HOLIgraph implementation (steps 3-5 below). 
